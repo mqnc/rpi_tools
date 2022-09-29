@@ -76,13 +76,14 @@
                
                
                
-            {
+                        {
               "host": "arm-linux-gnueabihf",
-              "archiveFileName": "micronucleus_rpi.tar.gz",
-              "url": "https://github.com/mqnc/rpi_tools/blob/main/micronucleus_rpi.tar.gz?raw=true",
-              "checksum": "SHA-256:eab42206ac6ba5a01c196e10126e706f3e86a153831d6e5bf03695ff3b297319",
-              "size": "294397"
+              "archiveFileName": "build.tar.gz",
+              "url": "https://github.com/mqnc/rpi_tools/blob/main/build.tar.gz?raw=true",
+              "checksum": "SHA-256:815fc4b4564ff983ffea838d2fd70d5ddcabf410cea7023d1edb68c6f253aa07",
+              "size": "300811"
             }
+
 
 
 
