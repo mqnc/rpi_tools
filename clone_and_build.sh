@@ -12,7 +12,7 @@ rm -rf micronucleus
 git clone https://github.com/digistump/avr-dummy
 cd avr-dummy
 make
-cp avrdude ../build/launcheru
+cp avrdude ../build/launcher
 cd ..
 rm -rf "avr-dummy"
 

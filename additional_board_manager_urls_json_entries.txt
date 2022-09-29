@@ -2,6 +2,6 @@
               "host": "arm-linux-gnueabihf",
               "archiveFileName": "build.tar.gz",
               "url": "https://github.com/mqnc/rpi_tools/blob/main/build.tar.gz?raw=true",
-              "checksum": "SHA-256:815fc4b4564ff983ffea838d2fd70d5ddcabf410cea7023d1edb68c6f253aa07",
+              "checksum": "SHA-256:87f541069ceafcbeb9b72afe02ab19740cb386110f56019a66ee1b6780c39ba8",
               "size": "300811"
             }
