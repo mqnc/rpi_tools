@@ -1,0 +1,7 @@
+            {
+              "host": "arm-linux-gnueabihf",
+              "archiveFileName": "micronucleus_rpi.tar.gz",
+              "url": "",
+              "checksum": "SHA-256:63f9c907322cd4aa1ddcbd53c1aa2a900fa04e1e51455527058d9690a841a30a",
+              "size": "294397"
+            }
